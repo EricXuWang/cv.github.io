@@ -26,8 +26,7 @@ publishDate: '2024-03-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Communications
-*
+publication: In *IEEE International Conference on Communications*
 publication_short: In *ICC*
 
 abstract: We have aspired as a green and intelligent future, where humans, the built environment,  and the nature are interconnected as a cyber-physical system. To such an Internet of Things, the sustainability and robustness of the power system is crucial, and the reliable operation of the battery-backed energy storage systems is key because of their abilities in power smoothing and shifting. However, detecting battery failures at the early-deployment stage is challenging due to the unavailability of anomalous measurement data and privacy concerns. In this paper, we propose an anomaly detection scheme for the energy storage systems without using prior information. We train autoencoders on the normal measurement data. Instead of training autoencoders in a centralized way, we train a global autoencoder over many energy storage systems in a federated manner without compromising privacy. Experimental results show that the proposed algorithm effectively detects anomalous batteries instantly after the system is set up without sharing sensitive data.
