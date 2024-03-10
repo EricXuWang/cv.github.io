@@ -27,8 +27,7 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Wireless Communications and Networking Conference
-*
+publication: In *IEEE Wireless Communications and Networking Conference*
 publication_short: In *WCNC*
 
 abstract: One of the Sustainable Development Goals of the United Nations is affordable and clean energy. True utilization of renewable energy is only possible via battery-based energy storage systems. Overseeing the operation of battery-based energy storage systems and diagnosing abnormal batteries are of the utmost importance for their durability and stability. Because of inadequate anomalous samples and privacy considerations, we jointly train a global autoencoder on various battery-based energy storage systems to detect anomalous batteries. Due to potentially unstable network connectivity in energy storage systems, a chunk of model parameters may be lost during model transmission, leading to dramatic performance deterioration. The trained model tends to classify all measurements as anomalies To solve this problem, we propose a robust federated learning scheme to mitigate negative impact caused by packet loss during model transmission. By permuting and unpermuting model parameters before and after model transmission, we are able to distribute the lost parameters across the entire model. Such a loss can no longer have a significant negative impact on anomalous battery detection. Experimental results illustrate that the proposed algorithm is robust against packet loss during the model exchange between the cloud server and battery-based energy storage systems..
