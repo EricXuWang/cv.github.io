@@ -7,6 +7,7 @@ title: 'Designing Robust 6G Networks with Bimodal Distribution for Decentralized
 authors:
   - admin
   - Yuanzhu Chen
+  - Octavia Dobre
 
 # # Author notes (optional)
 # author_notes:
