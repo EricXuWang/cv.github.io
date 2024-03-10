@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper22222'
+title: 'Malicious Model Detection for Federated Learning Empowered Energy Storage Systems'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
