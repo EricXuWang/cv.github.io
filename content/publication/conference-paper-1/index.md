@@ -26,12 +26,12 @@ publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
 publication: In *IEEE International Conference on Computer Communications*
-publication_short: In *Infocom*
+publication_short: In *INFOCOM*
 
 abstract: Integrating distributed machine learning with 6G technology  is aligned with the United Nations' Sustainable Development Goals, notably in global connectivity and sustainable industrial development. This combination bolsters innovation, contributing significantly to objectives in industry and infrastructure. Large networks are often modeled as variants or compounds of the random or power-law graph. Yet, either random or power-law network presents distinct vulnerabilities -- random networks are susceptible to failures, while power-law networks are more prone to targeted attacks. To address this issue, we propose to create the network topology based on a bimodal degree distribution so that the network is robust against both types of node removals. Such a design features one central hub with a high degree of connections and other nodes having consistently lower degrees. The resilience of this hub-and-spoke configuration against random failures is clear, especially given the small chance of the central hub being impacted. In contrast of a targeted attack, despite the significant risk of losing the hub, the network effectively withstands further node removals thanks to their residual connections. Simulation experiments in decentralized federated learning show that the developed large 6G network topology is resilient to both random failures and targeted attacks.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags: []
 
@@ -44,13 +44,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: ''
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
