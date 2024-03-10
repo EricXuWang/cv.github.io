@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper2'
+title: 'An example conference paper22222'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -36,7 +36,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: False
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
