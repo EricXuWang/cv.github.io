@@ -1,23 +1,23 @@
 ---
-title: 'Designing Robust 6G Networks with Bimodal Distribution for Decentralized Federated Learning'
+title: 'An example conference paper22222'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Yuanzhu Chen
+  - Robert Ford
 
-# # Author notes (optional)
-# author_notes:
-#   - 'Equal contribution'
-#   - 'Equal contribution'
+# Author notes (optional)
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 
-date: '2024-05-20T00:00:00Z'
+date: '2013-07-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-05-20T00:00:00Z'
+publishDate: '2017-01-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -25,12 +25,10 @@ publishDate: '2024-05-20T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE International Conference on Computer Communications*
-publication_short: In *Infocom*
+publication: In *Hugo Blox Builder Conference*
+publication_short: In *ICW*
 
-abstract: Integrating distributed machine learning with 6G technology  is aligned with the United Nations' Sustainable Development Goals, 
-notably in global connectivity and sustainable industrial development. This combination bolsters innovation, contributing significantly to objectives in industry and infrastructure. Large networks are often modeled as variants or compounds of the random or power-law graph. Yet, either random or power-law network presents distinct vulnerabilities -- random networks are susceptible to failures, while power-law networks are more prone to targeted attacks. To address this issue, we propose to create the network topology based on a bimodal degree distribution so that the network is robust against both types of node removals. 
-Such a design features one central hub with a high degree of connections and other nodes having consistently lower degrees. The resilience of this hub-and-spoke configuration against random failures is clear, especially given the small chance of the central hub being impacted. In contrast of a targeted attack, despite the significant risk of losing the hub, the network effectively withstands further node removals thanks to their residual connections. Simulation experiments in decentralized federated learning show that the developed large 6G network topology is resilient to both random failures and targeted attacks.
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
@@ -38,7 +36,7 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:

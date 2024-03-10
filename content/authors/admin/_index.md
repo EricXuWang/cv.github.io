@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 王旭
+title: Xu Wang
 
 # Name pronunciation (optional)
 name_pronunciation: Xu Wang
@@ -93,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:xu.wang@queensu.ca'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
