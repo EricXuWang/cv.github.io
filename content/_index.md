@@ -65,7 +65,7 @@ sections:
         - title: Graduate Teaching Assistant, CISC 335 Computer Networking
           company: Queen's University
           company_url: 'https://www.queensu.ca/'
-          company_logo: org-gc
+          company_logo: Queens
           location: Ontario
           date_start: '2024-01-09'
           date_end: ''
@@ -78,7 +78,7 @@ sections:
         - title: Graduate Teaching Assistant, CISC 452 Neural and Genetic Computing
           company: Queen's University
           company_url: 'https://www.queensu.ca/'
-          company_logo: org-gc
+          company_logo: Queens
           location: Ontario
           date_start: '2024-01-09'
           date_end: ''
