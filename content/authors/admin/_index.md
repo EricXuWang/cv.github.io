@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xu Wang
+title: Xu (Eric) Wang
 
 # Name pronunciation (optional)
 name_pronunciation: Xu Wang
