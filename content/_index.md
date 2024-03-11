@@ -197,6 +197,29 @@ sections:
           organization_url: https://www.mitacs.ca/our-programs/accelerate-core-students-postdocs/
           title: 'Queen''s Graduate Award'
           url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2018-06-30'
+          description: ''
+          icon: imut
+          organization: 'Inner Mongolia University of Technology'
+          organization_url: 
+          title: 'Outstanding Graduate'
+          url: ''
+        - certificate_url: 
+          date_end: ''
+          date_start: '2017-09-01'
+          description: ''
+          icon: imut
+          organization: 'Inner Mongolia University of Technology'
+          organization_url: 
+          title: 'Merit Student'
+          url: ''
+
+
+
+
+
         # - certificate_url: 
         #   date_end: ''
         #   date_start: '2022-09-01'
