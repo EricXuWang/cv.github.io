@@ -55,7 +55,7 @@ skills:
         description: ''
         percent: 96
         icon: network-wired
-        icon_pack: fab
+        icon_pack: fas
       - name: Complex Networks
         description: ''
         percent: 93
