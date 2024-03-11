@@ -49,7 +49,7 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: Technical
+  - name: Techniques
     items:
       - name: Computer Networks
         description: ''
