@@ -59,7 +59,7 @@ skills:
       - name: Complex Networks
         description: ''
         percent: 93
-        icon: chart-line
+        icon: circle-nodes
         icon_pack: fas
       - name: Edging Computing
         description: ''
