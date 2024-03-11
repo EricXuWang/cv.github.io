@@ -96,7 +96,7 @@ social:
     link: 'mailto:xu.wang@queensu.ca'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/
     label: Follow me on Twitter
     display:
       header: true
