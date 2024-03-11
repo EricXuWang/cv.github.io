@@ -146,7 +146,7 @@ sections:
           date_start: '2024-02-25'
           description: ''
           icon: Queens
-          organization: 'School of Computing, Queen’s University'
+          organization: 'School of Computing, Queen''sUniversity'
           organization_url: https://www.queensu.ca/
           title: 'Student Travel Award'
           url: ''
@@ -171,6 +171,24 @@ sections:
         - certificate_url: 
           date_end: '2024-08-31'
           date_start: '2023-09-01'
+          description: ''
+          icon: Queens
+          organization: 'School of Computing, Queen''s University'
+          organization_url: https://www.mitacs.ca/our-programs/accelerate-core-students-postdocs/
+          title: 'Queen''s Graduate Award'
+          url: ''
+        - certificate_url: 
+          date_end: '2023-08-31'
+          date_start: '2022-09-01'
+          description: ''
+          icon: Queens
+          organization: 'School of Computing, Queen''s University'
+          organization_url: https://www.mitacs.ca/our-programs/accelerate-core-students-postdocs/
+          title: 'Queen''s Graduate Award'
+          url: ''
+        - certificate_url: 
+          date_end: '2022-08-31'
+          date_start: '2021-09-01'
           description: ''
           icon: Queens
           organization: 'School of Computing, Queen''s University'
