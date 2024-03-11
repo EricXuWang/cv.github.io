@@ -110,7 +110,7 @@ sections:
           date_end: '2022-12-20'
           description: |2-
               Responsibilities include:
-
+              * Lecturing
               * Grading
               * Office Hour
 
