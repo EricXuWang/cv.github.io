@@ -173,9 +173,9 @@ sections:
           date_start: '2023-09-01'
           description: ''
           icon: Queens
-          organization: ''
-          organization_url: https://www.queensu.ca/
-          title: 'Queen's Graduate Award'
+          organization: 'School of Computing, Queen''s University'
+          organization_url: https://www.mitacs.ca/our-programs/accelerate-core-students-postdocs/
+          title: 'Queen''s Graduate Award'
           url: ''
         # - certificate_url: 
         #   date_end: ''
