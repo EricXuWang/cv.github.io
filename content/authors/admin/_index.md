@@ -77,7 +77,7 @@ skills:
         icon_pack: fas
       - name: Gym
         description: ''
-        percent: 195
+        percent: 95
         icon: dumbbell
         icon_pack: fas
       - name: Jogging
