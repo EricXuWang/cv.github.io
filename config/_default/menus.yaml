@@ -32,5 +32,5 @@ main:
   # Link to a PDF of your resume/CV from the menu.
   # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
   - name: CV
-    url: 'static/uploads/Curriculum_Vitae_Xu_Wang.pdf'
+    url: 'uploads/Curriculum_Vitae_Xu_Wang.pdf'
     weight: 70
