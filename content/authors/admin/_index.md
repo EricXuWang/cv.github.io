@@ -64,7 +64,7 @@ skills:
       - name: Edging Computing
         description: ''
         percent: 92
-        icon: database
+        icon: mobile
         icon_pack: fas
   - name: Hobbies
     color: '#eeac02'
@@ -78,12 +78,12 @@ skills:
       - name: Gym
         description: ''
         percent: 100
-        icon: cat
+        icon: dumbbell
         icon_pack: fas
       - name: Jogging
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: person-running
         icon_pack: fas
 
 # Social/Academic Networking
