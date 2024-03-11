@@ -80,13 +80,40 @@ sections:
           company_url: 'https://www.queensu.ca/'
           company_logo: Queens
           location: Ontario
-          date_start: '2024-01-09'
-          date_end: ''
+          date_start: '2023-09-01'
+          date_end: '2023-12.31'
           description: |2-
               Responsibilities include:
 
               * Grading
               * Office Hour
+
+        - title: Graduate Teaching Assistant, CISC 335 Computer Networking
+          company: Queen's University
+          company_url: 'https://www.queensu.ca/'
+          company_logo: Queens
+          location: Ontario
+          date_start: '2023-01-09'
+          date_end: '2023-04-20'
+          description: |2-
+              Responsibilities include:
+
+              * Grading
+              * Office Hour
+        - title: Instructor, CISC 102 Discrete Math
+          company: Queen's University
+          company_url: 'https://www.queensu.ca/'
+          company_logo: Queens
+          location: Ontario
+          date_start: '2022-09-01'
+          date_end: '2022-12-20'
+          description: |2-
+              Responsibilities include:
+
+              * Grading
+              * Office Hour
+
+
     design:
       columns: '2'
   - block: accomplishments
