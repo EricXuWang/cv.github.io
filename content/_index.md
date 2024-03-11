@@ -176,7 +176,7 @@ sections:
           description: ''
           icon: Queens
           organization: 'School of Computing, Queen''s University'
-          organization_url: https://www.mitacs.ca/our-programs/accelerate-core-students-postdocs/
+          organization_url: https://www.queensu.ca/
           title: 'Queen''s Graduate Award'
           url: ''
         - certificate_url: 
@@ -185,7 +185,7 @@ sections:
           description: ''
           icon: Queens
           organization: 'School of Computing, Queen''s University'
-          organization_url: https://www.mitacs.ca/our-programs/accelerate-core-students-postdocs/
+          organization_url: https://www.queensu.ca/
           title: 'Queen''s Graduate Award'
           url: ''
         - certificate_url: 
