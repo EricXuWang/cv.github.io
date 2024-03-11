@@ -54,7 +54,7 @@ skills:
       - name: Computer Networks
         description: ''
         percent: 96
-        icon: python
+        icon: network-wired
         icon_pack: fab
       - name: Complex Networks
         description: ''
@@ -72,17 +72,17 @@ skills:
     items:
       - name: Tennis
         description: ''
-        percent: 60
+        percent: 100
         icon: person-hiking
         icon_pack: fas
       - name: Gym
         description: ''
-        percent: 100
+        percent: 195
         icon: dumbbell
         icon_pack: fas
       - name: Jogging
         description: ''
-        percent: 80
+        percent: 90
         icon: person-running
         icon_pack: fas
 
