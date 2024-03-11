@@ -9,7 +9,7 @@ authors:
   - Zhi Quan
   - Yuan Ma
   - Weisheng Tang
-  - H Vincent Poor
+  - H. Vincent Poor
 
 # Author notes (optional)
 # author_notes:
