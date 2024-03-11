@@ -44,7 +44,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.researchgate.net/publication/371368672_A_Communication-Efficient_Protocol_for_Federated_Learning_in_Energy_Storage_Systems'
 url_code: ''
 url_dataset: ''
 url_poster: ''
