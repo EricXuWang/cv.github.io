@@ -113,6 +113,18 @@ sections:
               * Grading
               * Office Hour
 
+        - title: Graduate Teaching Assistant, CISC 335 Computer Networking
+          company: Queen's University
+          company_url: 'https://www.queensu.ca/'
+          company_logo: Queens
+          location: Ontario
+          date_start: '2022-01-09'
+          date_end: '2022-04-20'
+          description: |2-
+              Responsibilities include:
+
+              * Grading
+              * Office Hour
 
     design:
       columns: '2'
@@ -129,24 +141,24 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2024-02-25'
           description: ''
-          icon: coursera
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          icon: Queens
+          organization: School of Computing, Queen’s University
+          organization_url: https://www.queensu.ca/
+          title: Student Travel Award
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+          date_start: '2023-06-05'
+          description: 
+          icon: CANAI
+          organization: The 36th Canadian Conference on Artificial Intelligence
+          organization_url: https://www.caiac.ca/en/conferences/canadianai-2023/home
+          title: Student Travel Award
+          url: 
         - certificate_url: https://www.datacamp.com
           date_end: '2020-12-21'
           date_start: '2020-07-01'
