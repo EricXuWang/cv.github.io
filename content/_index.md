@@ -203,7 +203,7 @@ sections:
           description: ''
           icon: imut
           organization: 'Inner Mongolia University of Technology'
-          organization_url: 
+          organization_url: https://dice.imut.edu.cn/English/Introduction_OF_IMUT.htm
           title: 'Outstanding Graduate'
           url: ''
         - certificate_url: 
@@ -212,7 +212,7 @@ sections:
           description: ''
           icon: imut
           organization: 'Inner Mongolia University of Technology'
-          organization_url: 
+          organization_url: https://dice.imut.edu.cn/English/Introduction_OF_IMUT.htm
           title: 'Merit Student'
           url: ''
 
