@@ -30,7 +30,7 @@ bio: My research interests include computer networks, complex networks, and edge
 # Interests to show in About widget
 interests:
   - Computer Networks
-  - Complex Networkx
+  - Complex Networks
   - Edge Computing
 
 # Education to show in About widget
