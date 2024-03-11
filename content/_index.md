@@ -148,7 +148,7 @@ sections:
           icon: Queens
           organization: School of Computing, Queen’s University
           organization_url: https://www.queensu.ca/
-          title: Student Travel Award
+          title: 'Student Travel Award'
           url: ''
         - certificate_url: 
           date_end: ''
@@ -157,16 +157,16 @@ sections:
           icon: CANAI
           organization: The 36th Canadian Conference on Artificial Intelligence
           organization_url: https://www.caiac.ca/en/conferences/canadianai-2023/home
-          title: Student Travel Award
+          title: 'Student Travel Award'
           url: 
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+        - certificate_url: 
+          date_end: '2024-08-31'
+          date_start: '2023-09-01'
           description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          icon: mitacs
+          organization: Mitacs
+          organization_url: https://www.mitacs.ca/our-programs/accelerate-core-students-postdocs/
+          title: 'Mitacs Accelerate Fellowship'
           url: ''
     design:
       columns: '2'
