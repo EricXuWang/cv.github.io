@@ -146,7 +146,7 @@ sections:
           date_start: '2024-02-25'
           description: ''
           icon: Queens
-          organization: School of Computing, Queen’s University
+          organization: 'School of Computing, Queen’s University'
           organization_url: https://www.queensu.ca/
           title: 'Student Travel Award'
           url: ''
@@ -155,7 +155,7 @@ sections:
           date_start: '2023-06-05'
           description: 
           icon: CANAI
-          organization: The 36th Canadian Conference on Artificial Intelligence
+          organization: 'The 36th Canadian Conference on Artificial Intelligence'
           organization_url: https://www.caiac.ca/en/conferences/canadianai-2023/home
           title: 'Student Travel Award'
           url: 
@@ -164,7 +164,7 @@ sections:
           date_start: '2023-09-01'
           description: ''
           icon: mitacs
-          organization: Mitacs
+          organization: 'Mitacs'
           organization_url: https://www.mitacs.ca/our-programs/accelerate-core-students-postdocs/
           title: 'Mitacs Accelerate Fellowship'
           url: ''
@@ -173,7 +173,7 @@ sections:
           date_start: '2023-09-01'
           description: ''
           icon: Queens
-          organization: School of Computing, Queen’s University
+          organization: 'School of Computing, Queen’s University'
           organization_url: https://www.queensu.ca/
           title: 'Queen's Graduate Award'
           url: ''
@@ -182,7 +182,7 @@ sections:
           date_start: '2022-09-01'
           description: ''
           icon: Queens
-          organization: School of Computing, Queen’s University
+          organization: 'School of Computing, Queen’s University'
           organization_url: https://www.queensu.ca/
           title: 'Queen's Graduate Award'
           url: ''
@@ -191,7 +191,7 @@ sections:
           date_start: '2021-09-01'
           description: ''
           icon: Queens
-          organization: School of Computing, Queen’s University
+          organization: 'School of Computing, Queen’s University'
           organization_url: https://www.queensu.ca/
           title: 'Queen's Graduate Award'
           url: ''
