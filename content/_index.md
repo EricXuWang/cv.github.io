@@ -126,7 +126,18 @@ sections:
 
               * Grading
               * Office Hour
+        - title: Graduate Teaching Assistant, COMP 2002 Data Structure
+          company: Memorial University
+          company_url: 'https://www.mun.ca/'
+          company_logo: MUN
+          location: Newfoundland
+          date_start: '2021-01-09'
+          date_end: '2021-04-20'
+          description: |2-
+              Responsibilities include:
 
+              * Grading
+              * Office Hour
     design:
       columns: '2'
   - block: accomplishments
