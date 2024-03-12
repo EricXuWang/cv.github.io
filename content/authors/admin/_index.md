@@ -123,5 +123,5 @@ social:
 highlight_name: true
 ---
 
-Xu Wang is a Ph.D. candidate at the Queen's University WineMocol Lab. His research interests include computer networks, complex networks, and edge computing.
+Xu Wang is a Ph.D. candidate under supervision of Prof. Yuanzhu Chen and Prof. Octavia Dobre at the Queen's University WineMocol Lab. His research interests include computer networks, complex networks, and edge computing.
 {style="text-align: justify;"}
