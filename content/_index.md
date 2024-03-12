@@ -149,7 +149,7 @@ sections:
           date_start: '2024-02-25'
           description: ''
           icon: Queens
-          organization: 'School of Computing, Queen''sUniversity'
+          organization: 'School of Computing, Queen''s University'
           organization_url: https://www.queensu.ca/
           title: 'Student Travel Award'
           url: ''
