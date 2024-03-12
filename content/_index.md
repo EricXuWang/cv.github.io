@@ -113,7 +113,17 @@ sections:
               * Lecturing
               * Grading
               * Office Hour
-
+        - title: Faculty Mentor, Google Research exploreCSR
+          company: Google
+          company_url: 'https://research.google/outreach/explorecsr/'
+          company_logo: google
+          location: California
+          date_start: '2022-05-01'
+          date_end: '2022-08-31'
+          description: |2-
+              Responsibilities include:
+              * Mentoring an Undergraduate Research Project.
+        
         - title: Graduate Teaching Assistant, CISC 335 Computer Networking
           company: Queen's University
           company_url: 'https://www.queensu.ca/'
