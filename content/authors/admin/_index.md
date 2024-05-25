@@ -39,9 +39,6 @@ education:
     - course: Ph.D. in Computer science
       institution: Queen's University
       year: 2025
-    - course: Ph.D. in Computer science
-      institution: Memorial University
-      year: 2021
     - course: M.Sc. in Signal Processing and Intelligence Control 
       institution: Inner Mongolia University of Technology
       year: 2018
