@@ -21,9 +21,8 @@ jobs:
   build:
     if: github.repository_owner != 'HugoBlox'
     runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+    outputs:
+      artifact-name: github-pages
 
     steps:
       - name: Checkout
@@ -37,18 +36,27 @@ jobs:
           hugo-version: ${{ env.WC_HUGO_VERSION }}
           extended: true
 
-      - name: Build site with Hugo
+      - name: Build site
         run: hugo --minify --destination ./public
 
-      - name: Confirm site files were built
-        run: ls -al ./public
+      - name: Inspect output
+        run: find ./public
 
-      - name: Upload site artifact
+      - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
-          name: github-pages  # <--- this is required so deploy step can find it
+          name: github-pages
 
+  deploy:
+    if: github.repository_owner != 'HugoBlox'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v2
